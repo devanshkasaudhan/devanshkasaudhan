@@ -11,7 +11,7 @@ My understanding of software development methodologies and ability to work in a 
 
 I am always looking to improve my skills and stay up-to-date with the latest industry trends. My goal is to deliver high-quality, efficient, and user-friendly software solutions to meet the needs of my clients.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshkasaudhan&show_icons=true&locale=en" alt="meenaljain0303" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshkasaudhan&show_icons=true&locale=en" alt="devanshkasaudhan" /></p>
 
 ## Authors
 
