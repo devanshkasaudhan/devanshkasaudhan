@@ -13,6 +13,8 @@ I am always looking to improve my skills and stay up-to-date with the latest ind
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshkasaudhan&show_icons=true&locale=en" alt="devanshkasaudhan" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkasaudhan&layout=compact)](https://github.com/devanshkasaudhan)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devanshkasaudhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devansh-kasaudhan-a071a4204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atpug_yahba/)
 
 ## Authors
