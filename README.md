@@ -2,35 +2,36 @@
 
 ## I'm DEVANSH!
 
+## About Me
 
-## 🚀 About Me
+I am a passionate Data Scientist and Front End Developer with a background in Chemical Engineering. I love leveraging data-driven insights to solve complex problems and creating user-friendly applications. With a solid foundation in engineering principles and a keen interest in technology, I strive to continuously learn and grow in my field.
 
-I am a software developer with expertise in C++, JavaScript, and Python. As a highly skilled developer, I have experience working with a variety of programming languages and technologies. My expertise in C++ allows me to create efficient, high-performance software, while my proficiency in JavaScript and Python enables me to build user-friendly, interactive web applications. 
+## Skills
 
-My understanding of software development methodologies and ability to work in a team environment make me a valuable asset to any project. 
+- **Programming Languages**: Python, SQL, C++, JavaScript
+- **Data Science**: Scikit-learn, TensorFlow, Pandas, Matplotlib, Seaborn
+- **Web Development**: ReactJS, Sass/SCSS
+- **Cloud Technologies**: Microsoft Azure, Google Cloud
+- **Tools**: Excel, Tableau, Power BI, Git & GitHub
 
-I am always looking to improve my skills and stay up-to-date with the latest industry trends. My goal is to deliver high-quality, efficient, and user-friendly software solutions to meet the needs of my clients.
+## Experience
+
+### Data Science & ML Internship, Ybi Foundation
+- Worked on various machine learning projects, gaining hands-on experience in algorithm implementation and model building.
+
+### Cloud Internship, Future Ready Talent
+- Learned Microsoft Azure, Power BI, and GitHub, and built projects using Azure web app and bot service.
+
+Feel free to reach out to me for collaboration opportunities or to discuss any projects or ideas!
+
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshkasaudhan&show_icons=true&locale=en" alt="devanshkasaudhan" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkasaudhan&layout=compact)](https://github.com/devanshkasaudhan)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devanshkasaudhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devansh-kasaudhan-a071a4204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atpug_yahba/)
-
 ## Authors
 
 - [DEVANSH KASAUDHAN](https://www.linkedin.com/in/devansh-kasaudhan-a071a4204/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devanshkasaudhan)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devansh-kasaudhan-a071a4204/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devanshkasaudhan945/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devanshkasaudhan945/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/devanshkasaudhan12334/)
 <!--
-**devanshkasaudhan/devanshkasaudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
