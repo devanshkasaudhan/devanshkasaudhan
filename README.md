@@ -26,12 +26,16 @@ Feel free to reach out to me for collaboration opportunities or to discuss any p
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshkasaudhan&show_icons=true&locale=en" alt="devanshkasaudhan" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkasaudhan&layout=compact)](https://github.com/devanshkasaudhan)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=devanshkasaudhan&theme=dark" alt="GitHub Streak Stats" />
+  <br/>
+  <a href="https://github.com/devanshkasaudhan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshkasaudhan&layout=compact" alt="Top Languages" />
+  </a>
+</div>
 
 ## Authors
 
 - [DEVANSH KASAUDHAN](https://www.linkedin.com/in/devansh-kasaudhan-a071a4204/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devanshkasaudhan)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devansh-kasaudhan-a071a4204/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devanshkasaudhan945/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devanshkasaudhan945/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/devanshkasaudhan12334/)
-<!--
+
